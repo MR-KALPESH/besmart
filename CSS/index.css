@@ -116,7 +116,7 @@ li.nav-item {
 }
 
 .photo-1:first-child {
-    margin-left: 0px;
+    /* margin-left: 0px; */
 }
 
 .photo-1:hover {
