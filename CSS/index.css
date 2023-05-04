@@ -115,9 +115,9 @@ li.nav-item {
     opacity: 0.5;
 }
 
-.photo-1:first-child {
-    /* margin-left: 0px; */
-}
+/* .photo-1:first-child {
+    margin-left: 0px;
+} */
 
 .photo-1:hover {
     display: inline-block;
