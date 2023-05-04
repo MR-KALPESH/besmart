@@ -1115,7 +1115,7 @@ input::placeholder{
 
 @media screen and (max-width:376px) {
     .partner2 {
-        margin-left: 0px;
+        /* margin-left: 0px; */
         padding: 20px 0px;
 
     }
